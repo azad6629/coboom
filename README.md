@@ -6,13 +6,6 @@ Official implementation of the paper "CoBooM: Codebook Guided Bootstrapping for 
 
 CoBooM is a novel self-supervised learning approach for medical image representation learning. This method leverages codebook-guided bootstrapping to improve feature representations for downstream medical imaging tasks.
 
-## Paper
-
-**CoBooM: Codebook Guided Bootstrapping for Medical Image Representation Learning**  
-Azad Singh, Deepak Mishra  
-Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2024
-
-
 
 ## Repository Structure
 
