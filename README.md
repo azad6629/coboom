@@ -30,9 +30,6 @@ Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2024
 
 ## Setup
 
-### Requirements
-
-(Add your requirements here, e.g., Python version, PyTorch version, etc.)
 
 ### Dataset Preparation
 
