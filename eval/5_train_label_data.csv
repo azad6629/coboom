@@ -1,0 +1,866 @@
+filename,Finding Labels,Atelectasis,Cardiomegaly,Consolidation,Edema,Effusion,Emphysema,Fibrosis,Hernia,Infiltration,Mass,No Finding,Nodule,Pleural_Thickening,Pneumonia,Pneumothorax,Labels_Count
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000963_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016778_042.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022891_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019369_007.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008754_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003002_013.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022596_005.png,Effusion|Infiltration,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021176_000.png,Consolidation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008429_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022792_003.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019604_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00006829_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019992_003.png,Atelectasis|Pleural_Thickening,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005939_008.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025119_004.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010278_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00028162_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00028940_002.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00001335_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004048_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016486_016.png,Nodule|Pleural_Thickening,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015184_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004123_003.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012278_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010449_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021023_012.png,Atelectasis|Effusion,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00011946_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022528_001.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004933_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00028655_001.png,Atelectasis|Effusion,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002878_018.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009978_001.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00018331_000.png,Mass,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002658_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006552_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012863_036.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013594_042.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00001208_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019877_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00023741_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000444_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007718_013.png,Atelectasis|Effusion|Nodule,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013045_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015031_024.png,Effusion|Infiltration,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014741_001.png,Atelectasis|Fibrosis,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00001200_015.png,Infiltration|Nodule,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00024441_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00028231_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001362_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004990_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008009_007.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00013805_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014032_005.png,Atelectasis|Effusion,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011367_003.png,Atelectasis|Infiltration,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010458_001.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015696_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016831_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00028313_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005483_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019993_001.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003614_000.png,Emphysema,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00003959_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007734_001.png,Cardiomegaly|Infiltration,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025141_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021110_002.png,Cardiomegaly|Pneumothorax,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014849_010.png,Consolidation|Fibrosis,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014452_011.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012735_000.png,Consolidation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027355_003.png,Edema,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014129_008.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025042_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017819_001.png,Mass,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027910_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000322_011.png,Consolidation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006436_000.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022567_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003353_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003729_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007392_000.png,Pleural_Thickening,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007520_001.png,Atelectasis|Emphysema,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00006952_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007965_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017133_005.png,Emphysema|Infiltration|Pneumothorax,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000373_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00018011_019.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012341_003.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007217_003.png,Effusion|Infiltration|Mass,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010531_082.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004080_001.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000877_012.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020476_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004750_000.png,Pleural_Thickening,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014593_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004915_006.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027587_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003383_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008387_016.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007816_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000631_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017372_003.png,Fibrosis|Infiltration|Pleural_Thickening,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004651_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010698_022.png,Effusion|Infiltration,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010185_000.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010146_009.png,Atelectasis|Effusion,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006446_000.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009881_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014512_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019761_000.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002586_007.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015647_043.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019113_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00024034_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012132_002.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003610_018.png,Cardiomegaly,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026337_005.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008789_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017592_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019441_017.png,Mass|Nodule,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014684_001.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008006_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014534_003.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019049_002.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000814_008.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002178_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00011731_009.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025904_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00018286_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017901_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00003966_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00001270_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022689_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00018027_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004588_000.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013582_000.png,Fibrosis,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006043_008.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011038_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009365_006.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000318_008.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020540_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006252_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004345_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015832_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00018148_000.png,Consolidation|Nodule,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014397_013.png,Effusion|Mass,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012010_034.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011078_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003535_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016394_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002156_002.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00018863_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003326_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002412_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019348_007.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016869_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007404_013.png,Effusion|Pleural_Thickening,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025650_011.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012804_009.png,Effusion|Infiltration,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005845_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020204_018.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00023516_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004643_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008468_036.png,Emphysema|Pneumothorax,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020703_022.png,Cardiomegaly|Effusion,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022322_000.png,Cardiomegaly,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00024321_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025788_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012315_016.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026738_005.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001985_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007207_002.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005717_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017603_029.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010718_013.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00024131_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003322_004.png,Effusion|Pleural_Thickening,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009903_006.png,Atelectasis|Consolidation|Infiltration,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019460_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006468_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020067_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008584_000.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00009231_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001814_004.png,Consolidation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010033_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025652_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017645_019.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00028000_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029901_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029863_022.png,Atelectasis|Nodule|Pleural_Thickening|Pneumothorax,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,4
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000955_003.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010530_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011420_012.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027584_008.png,Pleural_Thickening,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00013849_009.png,Edema,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00018404_002.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021706_003.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016539_000.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004900_003.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021341_013.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019045_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00023185_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013555_007.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020326_030.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003363_003.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011143_008.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003308_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009736_004.png,Atelectasis|Effusion|Mass|Pneumothorax,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,4
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00018126_024.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000798_014.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027462_005.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002342_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020158_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000963_022.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004643_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00020967_017.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019785_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012428_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019573_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003369_002.png,Atelectasis|Effusion,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003478_010.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011489_000.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012491_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003338_000.png,Cardiomegaly|Fibrosis,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017753_002.png,Infiltration|Pneumonia,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013036_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019653_002.png,Consolidation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004600_000.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008428_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000825_002.png,Fibrosis,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003802_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017531_000.png,Fibrosis|Infiltration,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006325_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025768_007.png,Edema,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007064_002.png,Atelectasis|Effusion,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012919_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029235_005.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007717_006.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015118_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025746_008.png,Infiltration|Pleural_Thickening,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002143_006.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019935_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010399_001.png,Cardiomegaly|Consolidation|Pneumonia,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00018829_022.png,Effusion|Infiltration,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010223_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002675_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016484_024.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005014_003.png,Infiltration|Mass,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016778_014.png,Atelectasis|Consolidation|Infiltration|Mass|Pneumonia,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,5
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017927_003.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015654_001.png,Atelectasis|Effusion|Infiltration,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008888_030.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007684_004.png,Infiltration|Pneumothorax,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006199_020.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013245_005.png,Atelectasis|Effusion,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00006835_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000445_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000054_007.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001401_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012099_001.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013262_002.png,Cardiomegaly,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009266_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019507_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004263_001.png,Consolidation|Mass,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019039_000.png,Mass,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012010_032.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00018560_001.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003732_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00013864_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008348_000.png,Emphysema|Infiltration,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00006794_003.png,Consolidation|Emphysema|Infiltration,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010790_013.png,Atelectasis|Consolidation|Effusion|Infiltration,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,4
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001840_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025794_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007583_003.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007953_002.png,Consolidation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021439_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001493_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00018610_034.png,Effusion|Infiltration,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000322_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00011618_013.png,Consolidation|Infiltration|Pneumothorax,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005917_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002119_000.png,Consolidation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019664_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010984_007.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026062_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027952_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009381_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005940_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011178_009.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026081_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004532_002.png,Mass,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002264_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002412_002.png,Emphysema|Pneumothorax,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00024345_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017790_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019770_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00023133_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008377_000.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00028764_002.png,Pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00023802_000.png,Cardiomegaly|Infiltration,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021109_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010475_015.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015556_018.png,Infiltration|Nodule,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002785_006.png,Consolidation|Effusion,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00003944_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022566_007.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004299_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001637_007.png,Infiltration|Mass,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008852_003.png,Cardiomegaly|Effusion,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003662_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010832_005.png,Effusion|Infiltration,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00024909_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003593_006.png,Effusion|Pneumonia,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017213_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022029_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008883_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00023549_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019728_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00011976_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025074_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015643_000.png,Mass,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00018644_002.png,Atelectasis|Consolidation|Effusion|Mass,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,4
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003494_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00028644_007.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007487_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009323_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00006848_000.png,Effusion|Infiltration|Mass,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014773_004.png,Atelectasis|Pneumothorax,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017210_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022030_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020216_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003923_003.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000322_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021155_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00006675_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002473_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001648_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005911_000.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002198_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000765_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014075_001.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010887_020.png,Pleural_Thickening,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013175_009.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008051_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021285_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025128_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009796_000.png,Mass,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002369_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015009_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009894_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013655_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021889_007.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006332_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011507_000.png,Cardiomegaly,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009798_023.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010379_002.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003377_012.png,Atelectasis|Infiltration|Nodule,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020450_018.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003535_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007390_013.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015397_003.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00023373_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012628_011.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009232_006.png,Cardiomegaly|Effusion,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015751_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019831_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029897_001.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007109_011.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00018948_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010840_001.png,Consolidation|Pneumothorax,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007576_040.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019527_001.png,Consolidation|Mass,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008251_009.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001756_000.png,Fibrosis,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000663_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005666_012.png,Emphysema|Pneumothorax,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014986_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00024938_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019605_003.png,Infiltration|Nodule,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00001298_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014694_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00020952_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012052_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001551_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004831_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009293_007.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00028544_015.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008270_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000963_024.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003053_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00013888_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000764_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008675_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026099_018.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00013984_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005277_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027724_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017835_008.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029017_006.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008094_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014145_023.png,Mass,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025658_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012931_034.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019439_004.png,Effusion|Mass,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005512_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022281_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012341_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008838_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000700_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00001314_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011311_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019643_006.png,Edema|Infiltration,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020426_002.png,Atelectasis|Infiltration,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022751_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025761_011.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001989_009.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000038_003.png,Cardiomegaly,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025497_002.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014751_002.png,Effusion|Mass,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006401_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017376_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021091_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021590_000.png,Mass,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00028485_005.png,Atelectasis|Infiltration|Pneumonia,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022818_003.png,Infiltration|Nodule,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011180_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004451_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00006605_017.png,Emphysema|Infiltration|Pneumothorax,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000001_002.png,Cardiomegaly|Effusion,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004954_000.png,Cardiomegaly,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00018627_010.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027750_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00001278_001.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025360_001.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016179_000.png,Atelectasis|Pneumonia,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008273_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000591_010.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008775_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008039_002.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010552_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002635_001.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029244_009.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010335_005.png,Effusion|Mass,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00001212_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020800_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013646_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007562_002.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008701_047.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010266_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026522_000.png,Cardiomegaly,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026418_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022918_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017111_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00023158_000.png,Cardiomegaly,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009963_009.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019477_003.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005393_001.png,Edema|Infiltration,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027465_013.png,Infiltration|Pleural_Thickening,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015878_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006053_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016410_020.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014427_013.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020069_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010320_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011152_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009925_027.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027418_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012492_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004007_011.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022971_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00018006_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010406_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00023134_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006359_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019475_007.png,Atelectasis|Infiltration,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00030536_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012171_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000230_003.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027912_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009354_002.png,Consolidation|Effusion|Infiltration,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003752_004.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006382_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013714_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025133_010.png,Consolidation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003459_018.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003847_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006386_006.png,Atelectasis|Consolidation,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011351_001.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019364_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002000_000.png,Consolidation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000577_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003841_010.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005332_000.png,Consolidation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012158_007.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008468_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013495_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013613_009.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011338_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017450_001.png,Fibrosis,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029852_002.png,Nodule|Pleural_Thickening,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00001045_001.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003880_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007535_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005907_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013244_009.png,Atelectasis|Effusion|Pleural_Thickening|Pneumothorax,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,4
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011156_010.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00030355_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014528_003.png,Edema,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002398_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016254_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00011813_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00023416_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00006961_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006302_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020928_011.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007212_011.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016802_006.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000697_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020502_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009899_003.png,Atelectasis|Infiltration,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010503_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004121_001.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006326_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016164_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025096_002.png,Fibrosis,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014909_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00024077_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008214_000.png,Effusion|Infiltration|Mass,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00018739_021.png,Edema,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016491_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008297_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001609_002.png,Effusion|Pneumothorax,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022185_011.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002283_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005553_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005068_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00001182_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000827_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00018960_023.png,Pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00030499_004.png,Infiltration|Nodule,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00030174_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015551_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00016001_000.png,Cardiomegaly,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012994_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013555_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011111_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008245_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010215_000.png,Mass|Nodule,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009792_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000296_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025556_014.png,Pleural_Thickening,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00006664_002.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00018013_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026825_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010756_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00024095_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003393_026.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019596_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014581_003.png,Effusion|Infiltration|Mass|Pleural_Thickening,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,4
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010791_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008053_004.png,Pleural_Thickening,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017824_003.png,Emphysema,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007354_024.png,Infiltration|Mass|Nodule,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00001255_016.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007418_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011021_015.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009465_002.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026072_015.png,Atelectasis|Consolidation,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00006637_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002524_017.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010060_035.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005892_018.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026725_000.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00018625_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00028092_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00018429_003.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006220_008.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021239_009.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004205_007.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013270_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00030188_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008645_007.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012414_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003482_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021988_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005026_013.png,Cardiomegaly|Effusion,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00006898_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00023977_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005798_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002893_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020294_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029678_001.png,Atelectasis|Nodule,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00011828_000.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016079_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008122_007.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00009023_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006296_026.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009410_000.png,Effusion|Mass,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007194_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00013881_002.png,Edema|Infiltration,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000771_001.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001483_006.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026645_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003006_005.png,Atelectasis|Consolidation|Effusion|Mass|Pleural_Thickening,1,0,1,0,1,0,0,0,0,1,0,0,1,0,0,5
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00024237_000.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002276_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005005_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000741_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013429_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010350_006.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00023645_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022087_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020060_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00028611_014.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002143_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015371_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029863_002.png,Infiltration|Nodule|Pneumothorax,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012198_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017750_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017655_001.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003190_009.png,Atelectasis|Cardiomegaly,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002681_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017424_022.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00018864_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005014_014.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019176_003.png,Cardiomegaly|Effusion|Infiltration,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021600_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003191_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015830_000.png,Fibrosis|Infiltration,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014287_000.png,Cardiomegaly,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005418_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029015_001.png,Effusion|Nodule|Pleural_Thickening,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029503_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00006850_027.png,Atelectasis|Effusion,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021766_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00018352_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013121_004.png,Atelectasis|Emphysema|Infiltration,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014032_010.png,Atelectasis|Emphysema|Mass,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001847_004.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000853_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017721_002.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021768_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014646_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012610_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011504_014.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009324_000.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022341_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007514_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007420_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00030280_002.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019640_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010790_043.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027122_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000255_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00011963_009.png,Atelectasis|Effusion,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003554_000.png,Effusion|Infiltration,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00018175_007.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007731_007.png,Mass,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019770_000.png,Pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006223_000.png,Consolidation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015861_003.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012603_008.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007238_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007109_019.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005079_013.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003902_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016830_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013438_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008796_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026963_018.png,Atelectasis|Infiltration,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021294_005.png,Infiltration|Pneumonia,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029007_001.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010123_003.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022636_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00006605_007.png,Infiltration|Pneumothorax,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008051_026.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016142_030.png,Atelectasis|Infiltration,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017625_003.png,Effusion|Infiltration,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012163_000.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019348_010.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009710_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006453_000.png,Atelectasis|Pneumothorax,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004034_002.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006374_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000446_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016789_014.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000620_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017643_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019295_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004626_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007344_001.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00018019_010.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013104_006.png,Pleural_Thickening,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008489_017.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009909_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010350_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00024672_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00030235_000.png,Consolidation|Hernia,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001577_001.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027199_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025980_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015658_026.png,Consolidation|Infiltration,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016798_009.png,Mass|Nodule,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000914_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017436_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020732_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014132_001.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017541_030.png,Atelectasis|Effusion|Infiltration|Pneumonia,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,4
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002673_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012863_010.png,Edema|Effusion,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017961_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001337_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019785_028.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000417_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00018109_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010142_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027108_008.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022458_007.png,Atelectasis|Infiltration,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00023688_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027768_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029054_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007576_027.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007191_010.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014790_011.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026025_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013144_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025297_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00024794_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026543_002.png,Atelectasis|Nodule,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003771_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015855_002.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00018258_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003002_004.png,Effusion|Pneumothorax,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026575_000.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026167_010.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014521_001.png,Consolidation|Fibrosis|Infiltration|Nodule,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,4
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00023158_001.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003169_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025303_008.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008597_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029774_002.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011363_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007233_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005332_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00008451_016.png,Infiltration|Mass,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021185_009.png,Cardiomegaly|Infiltration,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022618_001.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017234_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014543_004.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012681_049.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015224_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014953_001.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00011896_012.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002586_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021582_005.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00028156_000.png,Mass|Pleural_Thickening,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00011899_000.png,Mass,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00018037_014.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014743_001.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025849_013.png,Consolidation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00028357_035.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010167_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003346_002.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007138_007.png,Effusion|Pleural_Thickening,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006491_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027741_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012573_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00025241_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005079_009.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015628_005.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019219_007.png,Atelectasis|Cardiomegaly|Effusion|Nodule|Pleural_Thickening,1,1,0,0,1,0,0,0,0,0,0,1,1,0,0,5
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017605_002.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016737_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00009216_009.png,Atelectasis|Infiltration,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00011619_009.png,Edema,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020732_001.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004022_002.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00012200_001.png,Consolidation|Mass,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017677_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013016_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00020719_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003066_000.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003393_055.png,Atelectasis|Pneumothorax,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003510_005.png,Atelectasis|Effusion|Infiltration,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016485_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021260_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00011303_001.png,Mass|Pleural_Thickening,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00000231_011.png,Effusion|Pneumothorax,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00006926_013.png,Emphysema|Pleural_Thickening,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026112_001.png,Pneumonia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026219_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007128_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010454_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015618_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_001/images/00001149_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007420_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003807_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010369_000.png,Mass|Nodule,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026928_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027311_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002154_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019547_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021005_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017558_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001619_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026024_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00007317_007.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021585_000.png,Consolidation|Fibrosis|Nodule,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009523_008.png,Atelectasis|Effusion|Infiltration|Mass|Nodule|Pleural_Thickening|Pneumothorax,1,0,0,0,1,0,0,0,1,1,0,1,1,0,1,7
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014347_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029785_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005851_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006500_007.png,Atelectasis|Effusion,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002271_009.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00009689_015.png,Consolidation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026933_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006070_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00011723_022.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014559_009.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00006229_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022651_009.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027355_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019283_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003478_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002891_001.png,Pleural_Thickening,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005878_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010436_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029742_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010547_005.png,Edema,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002420_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00026495_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00028897_003.png,Effusion|Pleural_Thickening,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016772_016.png,Emphysema,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00013894_046.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005493_003.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014592_000.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029765_000.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00017480_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004957_004.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00001385_017.png,Consolidation|Fibrosis|Infiltration,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,3
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016781_000.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_011/images/00027845_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010945_001.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_008/images/00016484_018.png,Cardiomegaly,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010750_002.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00003647_009.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00006694_002.png,Atelectasis|Effusion,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00011711_001.png,Atelectasis|Infiltration,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010237_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00004706_002.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013003_049.png,Infiltration,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_009/images/00019757_001.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00029201_003.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_005/images/00010700_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_003/images/00005150_001.png,Effusion,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00021582_004.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00015214_013.png,Fibrosis,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_006/images/00013373_000.png,Atelectasis,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022197_006.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_002/images/00002817_006.png,Atelectasis|Pneumothorax,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+/workspace/DATASETS/NIH_Chest-Xray-14/images_012/images/00030178_008.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00022235_001.png,Nodule,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00013829_005.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_007/images/00014087_000.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_010/images/00023260_004.png,No Finding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+/workspace/DATASETS/NIH_Chest-Xray-14/images_004/images/00009119_003.png,Pneumothorax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
