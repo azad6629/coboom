@@ -55,8 +55,8 @@ bash pretrain.sh
 
 This will run the model with the following configuration:
 - Architecture: ResNet-18
-- Dataset: NIH Chest X-ray 14
-- Batch size: 256
+- Dataset: NIH14 (NIH Chest X-ray 14)
+- Batch size: 64
 - Head dimension: 4096
 - Output dimension: 256
 - Learning rate: 0.08
@@ -65,7 +65,7 @@ This will run the model with the following configuration:
 To customize the pre-training, you can modify the command-line arguments in `pretrain.sh` or run the main script directly:
 
 ```bash
-python main.py -arch resnet18 -dataset NIH14 -gpu 1 -bs 256 -hd 4096 -od 256 -lr 0.08 -mu 0.996 -ver v1
+python main.py -arch resnet18 -dataset NIH14 -gpu 0 -bs 64 -hd 4096 -od 256 -lr 0.08 -mu 0.996 -ver v1
 ```
 
 ### Evaluation
